@@ -39,7 +39,7 @@ jobs:
             --exclude '.next' \
             --exclude '.env' \
             --exclude 'compose.local.yml' \
-            ./ target:~/docker/kochbuch/
+            ./ target:~/docker/cookbook/
 
       - name: Restart Application via SSH
         uses: appleboy/ssh-action@v1.0.3
@@ -52,14 +52,14 @@ jobs:
           proxy_key: ${{ secrets.SERVER_SSH_KEY }}
           script: |
             set -e
-            cd ~/docker/kochbuch
+            cd ~/docker/cookbook
 
             if [ -f .env ]; then
               export $(grep -v '^#' .env | xargs)
             fi
 
             export TRAEFIK_NETWORK=${TRAEFIK_NETWORK:-traefik-network}
-            export APP_DOMAIN=${APP_DOMAIN:-kochbuch.nemetz.de}
+            export APP_DOMAIN=${APP_DOMAIN:-cookbook.nemetz.de}
             export TRAEFIK_CERT_RESOLVER=${TRAEFIK_CERT_RESOLVER:-letsencrypt}
 
             echo "APP_DOMAIN=$APP_DOMAIN"
