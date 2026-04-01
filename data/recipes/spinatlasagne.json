@@ -1,0 +1,59 @@
+{
+  "id": "spinatlasagne",
+  "title": "Spinatlasagne",
+  "description": "Klassische Lasagne mit Blattspinat und cremiger Sahne-Schmelzkäse-Sauce",
+  "category": "Hauptgericht",
+  "tags": ["Pasta", "Vegetarisch", "Auflauf", "Backen"],
+  "servings": { "amount": 4, "unit": "Portionen" },
+  "difficulty": "normal",
+  "times": {
+    "preparation": "25 min",
+    "cooking": "45 min",
+    "resting": null,
+    "total": "70 min"
+  },
+  "ingredients": [
+    {
+      "group": "Hauptzutaten",
+      "items": [
+        { "amount": 900, "unit": "g", "name": "Blattspinat" },
+        { "amount": 1, "unit": "Tasse", "name": "Brühe" },
+        { "amount": null, "unit": null, "name": "Salz und Pfeffer" },
+        { "amount": 12, "unit": "Stück", "name": "Lasagneplatten, je nach Schichtung" },
+        { "amount": 100, "unit": "g", "name": "Käse (Gouda), gerieben" },
+        { "amount": null, "unit": null, "name": "Muskat" },
+        { "amount": null, "unit": null, "name": "Fett für die Form" }
+      ]
+    },
+    {
+      "group": "Für die Sauce",
+      "items": [
+        { "amount": 45, "unit": "g", "name": "Butter" },
+        { "amount": 4, "unit": "Stück", "name": "Zwiebel(n)" },
+        { "amount": 3, "unit": "Zehe/n", "name": "Knoblauch" },
+        { "amount": 3, "unit": "EL", "name": "Mehl" },
+        { "amount": 250, "unit": "ml", "name": "Milch" },
+        { "amount": 300, "unit": "g", "name": "Sahne-Schmelzkäse" },
+        { "amount": null, "unit": null, "name": "Salz und Pfeffer" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Spinat in der Brühe aufkochen, 1-3 Minuten kochen, abtropfen lassen und würzen.",
+    "Fett erhitzen, in Würfel geschnittene Zwiebel und zerdrückte Knoblauchzehen darin andünsten. Mehl darin anschwitzen und mit Milch ablöschen. Schmelzkäse darin auflösen und mit Salz, Pfeffer und Muskat abschmecken.",
+    "In einer gefetteten Auflaufform lagenweise Spinat, rohe Lasagnenudeln und Soße einfüllen, mit Soße abschließen.",
+    "Geriebenen Gouda drüberstreuen und die Form in den kalten Backofen setzen.",
+    "Den Backofen dann auf Heißluft (180°C) stellen und den Auflauf 40-45 Minuten backen.",
+    "Dann noch 5 Minuten bei ausgeschaltetem Ofen stehen lassen."
+  ],
+  "tips": [],
+  "sideDishes": null,
+  "nutrition": null,
+  "source": {
+    "type": "website",
+    "name": "Chefkoch.de",
+    "author": "GoldDrache",
+    "url": null
+  },
+  "originalFile": "20260401document192606.pdf"
+}

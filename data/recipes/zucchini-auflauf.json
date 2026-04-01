@@ -1,0 +1,47 @@
+{
+  "id": "zucchini-auflauf",
+  "title": "Zucchini-Auflauf",
+  "description": "Einfacher Auflauf mit Reis, Hackfleisch, Zucchini und Süß-Sauer-Sauce",
+  "category": "Hauptgericht",
+  "tags": ["Auflauf", "Fleisch", "Reis"],
+  "servings": null,
+  "difficulty": "einfach",
+  "times": {
+    "preparation": "20 min",
+    "cooking": "30 min",
+    "resting": null,
+    "total": "50 min"
+  },
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        { "amount": 1.5, "unit": "Tassen", "name": "Reis (Uncle Ben's)" },
+        { "amount": 0.5, "unit": "Glas", "name": "Süß-Sauer-Sauce" },
+        { "amount": 1, "unit": "Stück", "name": "Zucchini (mittlere)" },
+        { "amount": 250, "unit": "g", "name": "Hackfleisch (gemischt)" },
+        { "amount": 1, "unit": "Stück", "name": "Tomate (große)" },
+        { "amount": null, "unit": null, "name": "Käse" },
+        { "amount": null, "unit": null, "name": "Öl" },
+        { "amount": 1, "unit": "Stück", "name": "Zwiebel" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Reis kochen.",
+    "Zwiebel mit Hackfleisch und Zucchini dazu tun mit ein bisschen Wasser und unter dem Deckel auf kleiner Flamme dünsten, ab und zu umrühren.",
+    "Ein bisschen Öl in die Backform und Reis füllen, Hackfleisch darüber und Süß-Sauer-Sauce.",
+    "Tomaten enthäuten und in Scheiben oben auflegen, darüber Käse.",
+    "Backen bis der Käse goldbraun wird."
+  ],
+  "tips": [],
+  "sideDishes": null,
+  "nutrition": null,
+  "source": {
+    "type": "handwritten",
+    "name": "Familienrezept",
+    "author": null,
+    "url": null
+  },
+  "originalFile": "20260401document192844.pdf"
+}

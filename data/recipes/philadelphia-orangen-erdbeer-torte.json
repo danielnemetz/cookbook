@@ -1,0 +1,50 @@
+{
+  "id": "philadelphia-orangen-erdbeer-torte",
+  "title": "Philadelphia-Orangen-Erdbeer Torte",
+  "description": "Fruchtige Philadelphia-Torte mit Erdbeeren und Orange auf Cornflakes-Schokoladen-Boden",
+  "category": "Kuchen/Torte",
+  "tags": ["Backen", "Torte", "Erdbeeren", "Keine Backzeit"],
+  "servings": null,
+  "difficulty": "normal",
+  "times": {
+    "preparation": "30 min",
+    "cooking": null,
+    "resting": "3 Stunden",
+    "total": "3 Stunden 30 min"
+  },
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        { "amount": 100, "unit": "g", "name": "Cornflakes" },
+        { "amount": 2, "unit": "Tafeln", "name": "Milka-Schokolade" },
+        { "amount": 600, "unit": "g", "name": "Philadelphia Doppelrahmstufe" },
+        { "amount": 300, "unit": "g", "name": "Joghurt" },
+        { "amount": 3, "unit": "EL", "name": "Zitronensaft" },
+        { "amount": 250, "unit": "g", "name": "Erdbeeren" },
+        { "amount": 1, "unit": "Pk.", "name": "Tortenguss, klar" },
+        { "amount": 75, "unit": "g", "name": "Zucker" },
+        { "amount": 150, "unit": "ml", "name": "Orangensaft" },
+        { "amount": 1, "unit": "Stück", "name": "Orange" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Von der Schokolade 2 Rippen abbrechen und beiseite legen. Die restliche Schokolade im heißen Wasserbad schmelzen, anschließend mit Cornflakes (leicht zerdrückt) vermischen und in eine mit Backpapier ausgelegte Springform drücken.",
+    "Philadelphia, Joghurt und Zitronensaft mit einem Rührgerät vermischen. Die Erdbeeren putzen, waschen und vierteln.",
+    "Tortenguss, Zucker und Orangensaft in einem kleinen Topf aufkochen und unter die Philadelphia-Creme rühren.",
+    "Ein Viertel der Creme auf dem Tortenboden verteilen, darauf die Erdbeeren legen. Einige für die Dekoration zurückbehalten. Zum Schluss die restliche Philadelphia-Creme in die Springform füllen und glatt streichen.",
+    "Die Torte 3 Stunden in den Kühlschrank stellen.",
+    "Inzwischen die Orange schälen und filetieren. Die Philadelphia-Torte vor dem Servieren mit einigen Erdbeeren und den Orangenfilets garnieren."
+  ],
+  "tips": [],
+  "sideDishes": null,
+  "nutrition": { "calories": 338, "perServing": true },
+  "source": {
+    "type": "print",
+    "name": "Rezeptblatt",
+    "author": null,
+    "url": null
+  },
+  "originalFile": "20260401document192903.pdf"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "lachsfilet-zucchini-dill-senf-sauce",
+  "title": "Lachsfilet mit Zucchini und Dill-Senf-Sauce",
+  "description": "Gebratene Lachsmedaillons mit Zucchinischeiben in einer cremigen Dill-Senf-Sauce",
+  "category": "Hauptgericht",
+  "tags": ["Fisch", "Lachs", "Schnell"],
+  "servings": { "amount": 4, "unit": "Personen" },
+  "difficulty": "normal",
+  "times": {
+    "preparation": "20 min",
+    "cooking": "20 min",
+    "resting": null,
+    "total": "40 min"
+  },
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        { "amount": 8, "unit": "Stück", "name": "Lachsfilets" },
+        { "amount": 1, "unit": "Stück", "name": "Zitrone (Saft)" },
+        { "amount": null, "unit": null, "name": "Salz" },
+        { "amount": null, "unit": null, "name": "Pfeffer aus der Mühle" },
+        { "amount": 2, "unit": "Stück", "name": "mittelgroße Zucchini" },
+        { "amount": 2, "unit": "EL", "name": "Olivenöl" },
+        { "amount": 1, "unit": "Stück", "name": "Zwiebel" },
+        { "amount": 1, "unit": "EL", "name": "Mehl" },
+        { "amount": 100, "unit": "ml", "name": "kalter Fischfond" },
+        { "amount": 200, "unit": "ml", "name": "Sahne" },
+        { "amount": 1, "unit": "EL", "name": "mittelscharfer Senf mit Körnern" },
+        { "amount": null, "unit": null, "name": "Olivenöl zum Braten" },
+        { "amount": null, "unit": null, "name": "Mehl zum Wenden" },
+        { "amount": 1, "unit": "Bund", "name": "Dill" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Die aufgetauten Lachsfilets unter fließendem Wasser waschen und trocken tupfen. Die Haut rautenförmig einschneiden, die Medaillons mit Zitronensaft beträufeln, mit Salz und Pfeffer würzen.",
+    "Die Zucchini putzen, waschen und mit dem Buntmesser in Scheiben schneiden. Die Zwiebel schälen, fein hacken, etwas Olivenöl erhitzen und die Zwiebeln darin glasig schwitzen.",
+    "Die Zucchini mit Mehl bestäuben, mit kaltem Fischfond und der Sahne auffüllen und das Ganze bei mäßiger Hitze zu einer sämigen Sauce verkochen.",
+    "Die Sauce mit Senf, Salz und Pfeffer abschmecken. Olivenöl erhitzen, die Zucchini anschwenken, mit Salz und Pfeffer würzen.",
+    "Die Lachsfilets mit Mehl bestäuben, in einer zweiten Pfanne erneut Olivenöl erhitzen und die Lachsfilets darin braten.",
+    "Den feingeschnittenen Dill unter die Sauce ziehen, die Sauce auf großen Tellern anrichten, die Zucchinischeiben und die Lachsmedaillons darauflegen, ausgarnieren und mit Reis servieren."
+  ],
+  "tips": [],
+  "sideDishes": "Reis",
+  "nutrition": null,
+  "source": {
+    "type": "print",
+    "name": "Rezeptvorschlag (Verpackungsbeilage)",
+    "author": null,
+    "url": null
+  },
+  "originalFile": "20260401document192719.pdf"
+}

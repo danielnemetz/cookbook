@@ -1,0 +1,46 @@
+{
+  "id": "gefuellte-paprika",
+  "title": "Gefüllte Paprika",
+  "description": "Mit Reis und Hackfleisch gefüllte Paprika in Tomatensauce",
+  "category": "Hauptgericht",
+  "tags": ["Fleisch", "Paprika", "Klassiker"],
+  "servings": { "amount": 4, "unit": "Portionen" },
+  "difficulty": "normal",
+  "times": {
+    "preparation": "25 min",
+    "cooking": "30 min",
+    "resting": null,
+    "total": "55 min"
+  },
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        { "amount": 4, "unit": "Stück", "name": "Paprika" },
+        { "amount": 200, "unit": "g", "name": "Hackfleisch" },
+        { "amount": 1, "unit": "Stück", "name": "Zwiebel" },
+        { "amount": 1, "unit": "Packung", "name": "Reis" },
+        { "amount": null, "unit": null, "name": "Gemüsebrühe" },
+        { "amount": null, "unit": null, "name": "Mehl" },
+        { "amount": null, "unit": null, "name": "Tomatenmark" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Reis kochen. Zwiebeln auf Butter schmoren. Hackfleisch mit Reis und Zwiebeln mischen und würzen.",
+    "Paprika entkernen und füllen.",
+    "Ein bisschen Öl in den Topf und Paprika rein, gut zugedeckt schmoren und immer wieder wenden bis die Paprika weich ist.",
+    "Ein Glas heißes Wasser mit 1 Teelöffel Brühe drübergießen. Kurz köcheln.",
+    "Wasser mit Mehl die Sauce dicken und ggf. Tomatenmark zugeben."
+  ],
+  "tips": [],
+  "sideDishes": null,
+  "nutrition": null,
+  "source": {
+    "type": "handwritten",
+    "name": "Familienrezept",
+    "author": null,
+    "url": null
+  },
+  "originalFile": "20260401document193037.pdf"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "couscous-salat-wuerzig",
+  "title": "Couscous-Salat lecker würzig",
+  "description": "Würziger Couscous-Salat zu gegrilltem und gebratenem Fleisch oder als vegetarische Alternative",
+  "category": "Salat",
+  "tags": ["Vegetarisch", "Schnell", "Grillen"],
+  "servings": { "amount": 4, "unit": "Portionen" },
+  "difficulty": "normal",
+  "times": {
+    "preparation": "20 min",
+    "cooking": null,
+    "resting": "10 min",
+    "total": "30 min"
+  },
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        { "amount": 250, "unit": "g", "name": "Couscous (mittelgroß)" },
+        { "amount": 250, "unit": "ml", "name": "Gemüsebrühe oder Fond" },
+        { "amount": 1, "unit": "EL", "name": "Tomatenmark" },
+        { "amount": 2, "unit": "Stück", "name": "Paprikaschote(n), rot und gelb" },
+        { "amount": 1, "unit": "Dose", "name": "Mais" },
+        { "amount": 4, "unit": "Stange/n", "name": "Lauchzwiebel(n)" },
+        { "amount": 2, "unit": "EL", "name": "Essig (Reisessig)" },
+        { "amount": 3, "unit": "EL", "name": "Olivenöl oder Sonnenblumenöl" },
+        { "amount": 1, "unit": "EL", "name": "Currypaste, rote, vegane (ohne Garnelen!)" },
+        { "amount": 1, "unit": "EL", "name": "Sojasauce" },
+        { "amount": null, "unit": null, "name": "Salz und Pfeffer" },
+        { "amount": null, "unit": null, "name": "Chilipulver und Kreuzkümmel" },
+        { "amount": null, "unit": null, "name": "etwas Zucker" },
+        { "amount": null, "unit": null, "name": "Petersilie" },
+        { "amount": null, "unit": null, "name": "Schnittlauch oder Zwiebellauchgrün (feine Ringe)" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Den Couscous mit dem aufgekochten Fond übergießen und 10 Min. ziehen lassen. Die Flüssigkeitszugabe bitte mit der Anweisung des Herstellers abgleichen. Je nach Typ und Hersteller kann eine unterschiedliche Menge nötig sein. Bitte ggf. die Flüssigkeit erhöhen.",
+    "In der Zwischenzeit das Gemüse und die Kräuter waschen und schnippeln. Tomatenmark, Currypaste (bitte Veganer/Vegetarier aufpassen, kann Garnelen enthalten ggf. mehr Tomatenmark benutzen), Reisessig, Öl und Sojasauce mit dem Couscous vermengen (geht mit den Händen am besten).",
+    "Gemüse unterheben und mit Salz, Pfeffer, Chilipulver, Kreuzkümmel und etwas Zucker würzen. Etwas glatte Petersilie und Zwiebellauchgrün dazu, fertig."
+  ],
+  "tips": [],
+  "sideDishes": null,
+  "nutrition": { "calories": 450, "perServing": true },
+  "source": {
+    "type": "website",
+    "name": "Chefkoch.de",
+    "author": "anjatrine",
+    "url": "http://www.chefkoch.de/rezepte/drucken/56232115443823/230948"
+  },
+  "originalFile": "20260401document192509.pdf"
+}

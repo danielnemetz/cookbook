@@ -1,0 +1,54 @@
+{
+  "id": "texanisches-chili",
+  "title": "Texanisches Chili",
+  "description": "Herzhaftes Chili con Carne nach texanischer Art mit Rindfleisch und Paprikaschoten",
+  "category": "Eintopf",
+  "tags": ["Fleisch", "Texanisch", "Scharf", "Eintopf"],
+  "servings": null,
+  "difficulty": "normal",
+  "times": {
+    "preparation": "20 min",
+    "cooking": "1,5 Stunden",
+    "resting": null,
+    "total": "2 Stunden"
+  },
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        { "amount": 2, "unit": "EL", "name": "Pflanzenöl" },
+        { "amount": 750, "unit": "g", "name": "Rindfleisch, 1cm große Würfel" },
+        { "amount": 2, "unit": "Stück", "name": "Grüne Paprikaschoten, entkernt, klein gewürfelt" },
+        { "amount": 2, "unit": "Stück", "name": "Zwiebeln, gewürfelt" },
+        { "amount": 3, "unit": "Stück", "name": "Knoblauchzehen, gehackt" },
+        { "amount": 750, "unit": "g", "name": "Geschälte Tomaten aus der Dose" },
+        { "amount": 150, "unit": "g", "name": "passierte Tomaten" },
+        { "amount": 15, "unit": "g", "name": "Chilipulver" },
+        { "amount": 20, "unit": "g", "name": "Zucker" },
+        { "amount": 1, "unit": "TL", "name": "Salz" },
+        { "amount": 1, "unit": "TL", "name": "getrockneten Oregano" },
+        { "amount": 0.25, "unit": "TL", "name": "grob gemahlenen Pfeffer" },
+        { "amount": null, "unit": null, "name": "geriebenen Cheddar" },
+        { "amount": null, "unit": null, "name": "Frühlingszwiebeln" },
+        { "amount": null, "unit": null, "name": "Tortillachips" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Fleisch in Öl scharf anbraten, beiseite stellen.",
+    "Paprika, Zwiebeln und Knoblauch im verbliebenen Bratfett 10 min sautieren.",
+    "Fleisch wieder hinzugeben, Tomaten samt Saft, passierte Tomaten, Chilipulver, Zucker, Salz, Oregano und Pfeffer hinzugeben und gut umrühren.",
+    "¼ Liter Wasser zugeben und alles zum Kochen bringen. 1 ½ Stunden bei mittlerer Hitze köcheln lassen.",
+    "Jede Portion mit Cheddar und Frühlingszwiebeln garnieren."
+  ],
+  "tips": [],
+  "sideDishes": "Tortillachips",
+  "nutrition": null,
+  "source": {
+    "type": "digital",
+    "name": "Textdatei",
+    "author": null,
+    "url": null
+  },
+  "originalFile": "20260401document193058.pdf"
+}

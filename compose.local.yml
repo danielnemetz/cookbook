@@ -1,0 +1,9 @@
+services:
+  kochbuch:
+    build: .
+    container_name: kochbuch-app-local
+    restart: unless-stopped
+    ports:
+      - "${APP_PORT:-3000}:3000"
+    env_file:
+      - .env

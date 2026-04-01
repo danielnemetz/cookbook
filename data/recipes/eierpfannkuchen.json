@@ -1,0 +1,51 @@
+{
+  "id": "eierpfannkuchen",
+  "title": "Eierpfannkuchen",
+  "description": "Klassische Eierpfannkuchen (Pfannkuchen/Palatschinken) aus dem Wikibooks-Kochbuch",
+  "category": "Hauptgericht",
+  "tags": ["Mehlspeise", "Vegetarisch", "Schwäbisch", "Schnell", "Klassiker"],
+  "servings": { "amount": 4, "unit": "Personen" },
+  "difficulty": "einfach",
+  "times": {
+    "preparation": "15 min",
+    "cooking": "15 min",
+    "resting": "15 min",
+    "total": "30 min"
+  },
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        { "amount": 4, "unit": "Stück", "name": "Eier" },
+        { "amount": 160, "unit": "g", "name": "Mehl (= 8 EL)" },
+        { "amount": 250, "unit": "ml", "name": "Milch (= 1/4 l)" },
+        { "amount": 1, "unit": "Prise", "name": "Salz" },
+        { "amount": 20, "unit": "g", "name": "Zucker (= 1 EL)" },
+        { "amount": null, "unit": null, "name": "Öl zum Braten" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Die Eier aufschlagen, mit einer Prise Salz und einen Esslöffel Zucker verrühren.",
+    "Anschließend das Mehl löffelweise zugeben bis ein zäher Teig entstanden ist. Solange rühren bis keine Klumpen mehr im Teig sind.",
+    "Die Milch langsam einarbeiten, bis der Teig die gewünschte Konsistenz erreicht hat. Je dünner der Teig, desto dünner werden die Pfannkuchen. Dann den Teig noch eine viertel Stunde stehen lassen, damit das Mehl quellen kann.",
+    "Einen Esslöffel Öl in einer Pfanne erhitzen und eine Schöpfkelle voll Teig hineingeben. Solange warten bis die Oberseite nicht mehr flüssig ist, und dann den Pfannkuchen wenden. Von der zweiten Seite fertigbacken."
+  ],
+  "tips": [
+    "Statt Öl kann auch sehr gut Schmalz für das Braten verwendet werden.",
+    "Ein Teil der Milch kann durch Mineralwasser (mit Kohlensäure) ersetzt werden. Dadurch werden die Pfannkuchen luftiger.",
+    "Wenn die Pfannkuchen süßer sein sollen, einfach einen zweiten Esslöffel Zucker nehmen.",
+    "Ein Päckchen Backpulver macht die Pfannkuchen etwas dicker.",
+    "Zwei, drei Tropfen Bittermandelöl verleihen den Pfannkuchen eine besondere Note.",
+    "Das Verhältnis von Mehl zu Eiern kann sehr stark variieren."
+  ],
+  "sideDishes": null,
+  "nutrition": null,
+  "source": {
+    "type": "website",
+    "name": "Wikibooks Kochbuch",
+    "author": null,
+    "url": "http://de.wikibooks.org/wiki/Kochbuch/_Eierpfannkuchen"
+  },
+  "originalFile": "20260401document192950.pdf"
+}

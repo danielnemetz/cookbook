@@ -1,0 +1,69 @@
+{
+  "id": "spaghetti-bolognese",
+  "title": "Spaghetti Bolognese",
+  "description": "Klassisches Ragù alla Bolognese mit dreierlei Fleisch und San Marzano Tomaten",
+  "category": "Hauptgericht",
+  "tags": ["Pasta", "Fleisch", "Italienisch", "Klassiker"],
+  "servings": { "amount": 4, "unit": "Personen" },
+  "difficulty": "normal",
+  "times": {
+    "preparation": "30 min",
+    "cooking": "2,5 Stunden",
+    "resting": null,
+    "total": "3 Stunden"
+  },
+  "ingredients": [
+    {
+      "group": "Gemüse",
+      "items": [
+        { "amount": 1, "unit": "Stück", "name": "große Zwiebel" },
+        { "amount": 3, "unit": "Stück", "name": "Karotten" },
+        { "amount": 3, "unit": "Stangen", "name": "Sellerie" },
+        { "amount": 1, "unit": "Zehe", "name": "Knoblauch" },
+        { "amount": 600, "unit": "g", "name": "italienische Dosentomaten (am besten San Marzano)" }
+      ]
+    },
+    {
+      "group": "Fleisch",
+      "items": [
+        { "amount": 350, "unit": "g", "name": "Schweineschulter" },
+        { "amount": 350, "unit": "g", "name": "Rinderschulter" },
+        { "amount": 350, "unit": "g", "name": "Kalbsschulter (optional, sonst mehr Rind), grob gehackt" }
+      ]
+    },
+    {
+      "group": "Gewürze",
+      "items": [
+        { "amount": null, "unit": null, "name": "Salz" },
+        { "amount": null, "unit": null, "name": "Grobes Salz" },
+        { "amount": null, "unit": null, "name": "Pfeffer" },
+        { "amount": 2, "unit": "Stück", "name": "Lorbeerblätter" },
+        { "amount": 2, "unit": "Stück", "name": "Nelkenköpfe" },
+        { "amount": null, "unit": null, "name": "Frisch Muskatnuss" }
+      ]
+    },
+    {
+      "group": "Sonstiges",
+      "items": [
+        { "amount": null, "unit": null, "name": "Olivenöl" },
+        { "amount": 500, "unit": "g", "name": "Spaghetti (Hartweizen)" },
+        { "amount": null, "unit": null, "name": "Parmesan" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Zwiebel, Karotten und Sellerie schälen und in gleich große, kleine Würfel schneiden. In einem Topf Olivenöl erhitzen und die Knoblauchzehe ganz dazugeben. Das Gemüse auf mittlerer Hitze ca. 5 Minuten anbraten. Den Knoblauch wieder herausnehmen und das grob gehackte Fleisch dazugeben und anbraten. Mit Rotwein ablöschen.",
+    "Die Dosentomaten pürieren oder durch ein Sieb streichen und dazugeben. Noch etwas Wasser dazu und dann für 2,5 Stunden leicht köcheln lassen. Alle halbe Stunde 4 Kellen Gemüsebrühe dazugeben, damit nichts anbrennt. Am Ende mit den Gewürzen abschmecken.",
+    "Wasser zum Kochen bringen: pro 100 Gramm Spaghetti einen Liter. Kocht das Wasser, grobes Salz dazugeben und die Spaghetti. Die Spaghetti herausnehmen, wenn sie fast gar sind. Danach in Butter schwenken und in der Sauce. Große Parmesanspäne darüberhobeln – fertig!"
+  ],
+  "tips": [],
+  "sideDishes": null,
+  "nutrition": null,
+  "source": {
+    "type": "website",
+    "name": "Galileo / ProSieben",
+    "author": null,
+    "url": "http://www.prosieben.de/wissen/galileo/themen/artikel/56242/"
+  },
+  "originalFile": "20260401document192931.pdf"
+}

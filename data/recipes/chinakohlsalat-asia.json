@@ -1,0 +1,50 @@
+{
+  "id": "chinakohlsalat-asia",
+  "title": "Chinakohlsalat Asia",
+  "description": "Asiatischer Chinakohlsalat mit Sesamdressing, gut vorzubereiten als Vorspeise",
+  "category": "Salat",
+  "tags": ["Asiatisch", "Vegan", "Vegetarisch", "Vorspeise", "Gemüse"],
+  "servings": { "amount": 4, "unit": "Portionen" },
+  "difficulty": "normal",
+  "times": {
+    "preparation": "20 min",
+    "cooking": null,
+    "resting": "30 min",
+    "total": "50 min"
+  },
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        { "amount": 400, "unit": "g", "name": "Chinakohl" },
+        { "amount": 2, "unit": "Bund", "name": "Radieschen" },
+        { "amount": 400, "unit": "g", "name": "Möhre(n)" },
+        { "amount": 3, "unit": "EL", "name": "Essig (Rotwein-)" },
+        { "amount": 0.5, "unit": "TL", "name": "Sambal Oelek" },
+        { "amount": 4, "unit": "EL", "name": "Reiswein" },
+        { "amount": 0.125, "unit": "Liter", "name": "Öl" },
+        { "amount": 1, "unit": "EL", "name": "Sojasauce" },
+        { "amount": 30, "unit": "g", "name": "Sesam, hell" },
+        { "amount": null, "unit": null, "name": "Salz und Pfeffer" },
+        { "amount": null, "unit": null, "name": "Zucker" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Vom Chinakohl die äußeren Blätter entfernen. Den Kohl halbieren, den Strunk herausschneiden, jede Hälfte nochmal längs halbieren und anschließend quer in schmale Streifen schneiden. Die Streifen in kaltem Wasser kurz waschen und gut abtropfen lassen.",
+    "Die Radieschen putzen und gründlich waschen, die Möhren schälen und beides in möglichst gleichmäßig dünne Stifte schneiden.",
+    "Für das Dressing Sambal Oelek (je nach Geschmack darf es auch mehr sein, aber Vorsicht, sonst wird der Gesamtgeschmack verfälscht) mit dem Essig, dem Öl und dem Reiswein (kann auch weggelassen werden) gut vermischen, mit Salz, Pfeffer, Sojasauce und etwas Zucker abschmecken.",
+    "Das Gemüse mit dem Dressing vermischen und mindestens 30 Minuten ziehen lassen. Evtl. etwas nachwürzen.",
+    "In der Zwischenzeit den Sesamsamen in einer beschichteten Pfanne ohne Fett rösten (darf nicht anbrennen, da er sonst bitter wird), bis er schön goldbraun ist. Vor dem Servieren über den Salat geben und locker durchmischen."
+  ],
+  "tips": [],
+  "sideDishes": null,
+  "nutrition": null,
+  "source": {
+    "type": "website",
+    "name": "Chefkoch.de",
+    "author": "kallewirsch",
+    "url": "http://www.chefkoch.de/rezepte/1634421271067834/Chinakohlsalat-Asia.html"
+  },
+  "originalFile": "20260401document192531.pdf"
+}

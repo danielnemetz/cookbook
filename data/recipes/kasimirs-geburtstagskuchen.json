@@ -1,0 +1,51 @@
+{
+  "id": "kasimirs-geburtstagskuchen",
+  "title": "Kasimirs Geburtstagskuchen",
+  "description": "Einfacher Rührkuchen nach dem Rezept aus 'Kasimir backt' von Lars Klinting",
+  "category": "Kuchen/Torte",
+  "tags": ["Backen", "Kinder", "Einfach"],
+  "servings": null,
+  "difficulty": "einfach",
+  "times": {
+    "preparation": "20 min",
+    "cooking": "40 min",
+    "resting": null,
+    "total": "60 min"
+  },
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        { "amount": 80, "unit": "g", "name": "geschmolzene Butter oder Margarine" },
+        { "amount": 200, "unit": "g", "name": "Zucker" },
+        { "amount": 2, "unit": "Stück", "name": "Eier" },
+        { "amount": 200, "unit": "g", "name": "Weizenmehl" },
+        { "amount": 2, "unit": "TL", "name": "Backpulver" },
+        { "amount": 2, "unit": "TL", "name": "Vanillezucker" },
+        { "amount": 0.125, "unit": "Liter", "name": "Milch" },
+        { "amount": null, "unit": null, "name": "Paniermehl für die Form" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Den Backofen auf 180°C vorheizen.",
+    "Die Butter in einem Stieltopf bei schwacher Hitze schmelzen lassen.",
+    "Die Kuchenform mit ein wenig geschmolzener Butter einpinseln.",
+    "Paniermehl in die Form schütten und vorsichtig schwenken, damit es sich gut verteilt. Es ist wichtig, daß die Form gleichmäßig mit Butter und Paniermehl bedeckt ist. Sonst kann der Kuchen später in der Form kleben bleiben.",
+    "Eier und Zucker in einer Schüssel schlagen, möglichst mit einem Elektromixer, damit die Masse schaumig wird.",
+    "Mehl, Backpulver und Vanillezucker in einer kleinen Schüssel sorgfältig mischen.",
+    "Milch und die geschmolzene Butter unter die Eierschaummasse rühren.",
+    "Jetzt den Inhalt der kleinen Schüssel mit Mehl, Backpulver und Vanillezucker zugeben und zu einem glatten Teig verrühren.",
+    "Den Teig in die Form füllen und circa 40 Minuten im unteren Teil des Backofens backen."
+  ],
+  "tips": ["Schale von 2 Zitronen und Saft von 1 Zitrone können hinzugefügt werden (handschriftliche Notiz)"],
+  "sideDishes": null,
+  "nutrition": null,
+  "source": {
+    "type": "website",
+    "name": "Kasimir backt (Lars Klinting)",
+    "author": "Lars Klinting",
+    "url": "http://www.kasimir.net/_Koch.html"
+  },
+  "originalFile": "20260401document192739.pdf"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "schwedentorte",
+  "title": "Schwedentorte",
+  "description": "Torte mit Mandarinen, Schlagsahne und Schmand auf einem selbstgebackenen Boden",
+  "category": "Kuchen/Torte",
+  "tags": ["Backen", "Torte", "Mandarinen"],
+  "servings": null,
+  "difficulty": "normal",
+  "times": {
+    "preparation": "30 min",
+    "cooking": "30 min",
+    "resting": null,
+    "total": "60 min"
+  },
+  "ingredients": [
+    {
+      "group": "Teig",
+      "items": [
+        { "amount": 1, "unit": "Tasse", "name": "Mandarinensaft" },
+        { "amount": 1, "unit": "Tasse", "name": "Öl" },
+        { "amount": 1, "unit": "Tasse", "name": "Zucker" },
+        { "amount": 1, "unit": "Päckchen", "name": "Vanillinzucker" },
+        { "amount": 3, "unit": "Tassen", "name": "Mehl" },
+        { "amount": 1, "unit": "Päckchen", "name": "Backpulver" },
+        { "amount": 4, "unit": "Stück", "name": "Eigelb" }
+      ]
+    },
+    {
+      "group": "Belag",
+      "items": [
+        { "amount": 5, "unit": "Dosen", "name": "Mandarinen" },
+        { "amount": 2, "unit": "Becher", "name": "Schlagsahne" },
+        { "amount": 1, "unit": "Päckchen", "name": "Sahnesteif" },
+        { "amount": 3, "unit": "Becher", "name": "Schmand" },
+        { "amount": 3, "unit": "EL", "name": "Zucker" },
+        { "amount": 1, "unit": "EL", "name": "Zimt" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Eiweiß steif schlagen und zum Schluss unter den Teig heben.",
+    "Teig auf ein Blech geben und bei 200°C ca. 30 Minuten backen.",
+    "5 Dosen Mandarinen auf dem abgekühlten Teig verteilen.",
+    "2 Becher Schlagsahne mit 1 Päckchen Sahnesteif steif schlagen.",
+    "3 Becher Schmand und 3 EL Zucker verrühren.",
+    "Schmand unter die steife Sahne unterheben und auf die Mandarinen streichen.",
+    "Mit Zucker und Zimt vermischen und darüber streuen."
+  ],
+  "tips": [],
+  "sideDishes": null,
+  "nutrition": null,
+  "source": {
+    "type": "handwritten",
+    "name": "Familienrezept",
+    "author": null,
+    "url": null
+  },
+  "originalFile": "20260401document192806.pdf"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "pizzateig",
+  "title": "Pizzateig",
+  "description": "Authentischer Pizzateig mit Weizenbier für den Geschmack wie in der Pizzeria",
+  "category": "Hauptgericht",
+  "tags": ["Pizza", "Backen", "Vegetarisch", "Hefeteig"],
+  "servings": { "amount": 6, "unit": "Portionen" },
+  "difficulty": "einfach",
+  "times": {
+    "preparation": "15 min",
+    "cooking": "5 min",
+    "resting": "60 min",
+    "total": "90 min"
+  },
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        { "amount": 0.5, "unit": "l", "name": "Weizenbier" },
+        { "amount": 500, "unit": "g", "name": "Mehl" },
+        { "amount": 1, "unit": "Würfel", "name": "Hefe (od. 2 Pckg. Trockenhefe)" },
+        { "amount": 1, "unit": "EL", "name": "Salz" },
+        { "amount": 1, "unit": "TL", "name": "Zucker" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Die Hefe im lauwarmen Weizenbier (anderes Bier geht auch) auflösen. Ebenso Salz und Zucker.",
+    "Anschließend am besten mit dem Knethaken gut verkneten und so lange Mehl beifügen, bis der Teig nicht mehr am Rand klebt und schön geschmeidig ist.",
+    "Den Teig zudecken und an einer warmen Stelle ca. 60 Minuten gehen lassen, bis der Teig sich deutlich vergrößert hat.",
+    "Anschließend noch einmal kneten und auf einem Backblech ausrollen.",
+    "Den Teig mit der Gabel leicht einstechen, nach Belieben nochmal 10-15 Min auf dem Blech gehen lassen. Dann im Ofen auf höchster Stufe (ideal wären 300 Grad - aber ein normaler Backofen schafft nur 250 Grad) kurz backen (1-2 Minuten).",
+    "Sobald der Käse auf der Pizza gut verlaufen ist und Blasen wirft, ist der Teig gut."
+  ],
+  "tips": [
+    "Auf diese Weise kann man auch sehr schön mit der Menge der Flüssigkeit variieren. Aber eine Flasche Bier reicht für ein schönes, großes Backblech.",
+    "Diesen Schritt (Vorbacken) kann man aber auch überspringen und den Teig direkt belegen. Der vorgebackene Teig bleibt schön trocken unter der Pizza und wässert nicht so durch die Tomaten."
+  ],
+  "sideDishes": null,
+  "nutrition": null,
+  "source": {
+    "type": "website",
+    "name": "webkoch.de",
+    "author": null,
+    "url": "http://www.webkoch.de/db/print.html?nr=459"
+  },
+  "originalFile": "20260401document193014.pdf"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "koenigsberger-klopse-einfach",
+  "title": "Königsberger Klopse (einfach)",
+  "description": "Einfache Variante der Königsberger Klopse mit heller Einbrenne und Kapern",
+  "category": "Hauptgericht",
+  "tags": ["Fleisch", "Deutsch", "Klassiker", "Soße"],
+  "servings": { "amount": 3, "unit": "Portionen" },
+  "difficulty": "normal",
+  "times": {
+    "preparation": "20 min",
+    "cooking": "60 min",
+    "resting": null,
+    "total": "80 min"
+  },
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        { "amount": 400, "unit": "g", "name": "Hack" },
+        { "amount": 1, "unit": "Stück", "name": "Zwiebeln" },
+        { "amount": 3, "unit": "EL", "name": "Paniermehl" },
+        { "amount": 1, "unit": "Stück", "name": "Eier" },
+        { "amount": null, "unit": null, "name": "Pfeffer, Salz" },
+        { "amount": 10, "unit": "g", "name": "Margarine (zum Dünsten)" },
+        { "amount": 20, "unit": "g", "name": "Margarine (für Einbrenne)" },
+        { "amount": 20, "unit": "g", "name": "Mehl" },
+        { "amount": 0.25, "unit": "Liter", "name": "Brühe" },
+        { "amount": 0.125, "unit": "Liter", "name": "Weißwein" },
+        { "amount": 4, "unit": "TL", "name": "Kapern" },
+        { "amount": 2, "unit": "EL", "name": "Sahne" },
+        { "amount": 400, "unit": "g", "name": "Kartoffeln" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Zunächst die Pellkartoffeln kochen. In der Zwischenzeit die Zwiebeln fein würfeln und in 10 g Margarine glasig dünsten. Abgekühlt zum Hack geben.",
+    "Das Hack mit dem Ei, Paniermehl und den Gewürzen gut vermischen. Mit feuchten Händen große Klopse formen.",
+    "Die Brühe nach dem Kochen auf kleinste Stufe schalten und die Klopse ca. 15 Min. darin ziehen lassen.",
+    "In einem anderen Topf aus 20 g Margarine und 20 g Mehl eine helle Einbrenne bereiten. Mit Weißwein ablöschen und mit 1/4 l Brühe auffüllen.",
+    "Sahne und Kapern zufügen und mit Pfeffer und Salz abschmecken. Die Klopse in der fertigen Sauce warmhalten, bis die Pellkartoffeln gar sind."
+  ],
+  "tips": [],
+  "sideDishes": "Pellkartoffeln",
+  "nutrition": { "calories": 675, "perServing": true },
+  "source": {
+    "type": "digital",
+    "name": "Textdatei (E:\\rezepte\\königsberger-klopse.txt)",
+    "author": null,
+    "url": null
+  },
+  "originalFile": "20260401document193152.pdf"
+}

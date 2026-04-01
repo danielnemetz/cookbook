@@ -1,0 +1,63 @@
+{
+  "id": "koenigsberger-klopse-kapernsauce",
+  "title": "Königsberger Klopse mit Kapernsauce",
+  "description": "Traditionelle Königsberger Klopse mit Weißbrotwürfeln und einer cremigen Kapernsauce",
+  "category": "Hauptgericht",
+  "tags": ["Fleisch", "Deutsch", "Klassiker", "Soße"],
+  "servings": { "amount": 4, "unit": "Personen" },
+  "difficulty": "fortgeschritten",
+  "times": {
+    "preparation": "30 min",
+    "cooking": "30 min",
+    "resting": null,
+    "total": "60 min"
+  },
+  "ingredients": [
+    {
+      "group": "Klopse",
+      "items": [
+        { "amount": 300, "unit": "g", "name": "Schweinsschulter" },
+        { "amount": 300, "unit": "g", "name": "Rindsschulter" },
+        { "amount": 50, "unit": "g", "name": "Weißbrotwürfel" },
+        { "amount": 50, "unit": "g", "name": "Zwiebel" },
+        { "amount": 2, "unit": "Stück", "name": "Eier" },
+        { "amount": null, "unit": null, "name": "Salz, Kräuter (Majoran, Petersilie, Salbei), Kümmel, Pfeffer" }
+      ]
+    },
+    {
+      "group": "Kapernsauce",
+      "items": [
+        { "amount": 30, "unit": "g", "name": "Margarine ungehärtet" },
+        { "amount": 30, "unit": "g", "name": "Weizenvollkornmehl, möglichst frisch gemahlen" },
+        { "amount": null, "unit": null, "name": "Kapern" },
+        { "amount": null, "unit": null, "name": "Pfeffer" },
+        { "amount": null, "unit": null, "name": "Schuss Weißwein" },
+        { "amount": null, "unit": null, "name": "Petersilie" },
+        { "amount": null, "unit": null, "name": "Gemüsebrühe" },
+        { "amount": null, "unit": null, "name": "Milch nach Bedarf" },
+        { "amount": 30, "unit": "g", "name": "Sauerrahm" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Die Zwiebel kleinwürfelig schneiden und in ungehärteter Margarine goldgelb rösten.",
+    "Das faschierte Rind- und Schweinefleisch mit dem eingeweichten Knödelbrot, 2 Eiern, goldgelb geröstetem Zwiebel, Majoran, Petersilie und Salbei vermengen und mit Salz, Pfeffer und Kümmel würzen.",
+    "Wasser zum Kochen bringen, salzen. 8 bis 10 Knödel formen und zirka 20 Minuten ziehen lassen.",
+    "Für die Sauce Margarine in einem Topf zergehen, Mehl anschwitzen und mit Milch aufgießen und unter ständigem Rühren aufkochen lassen.",
+    "Die Kapern fein hacken und in die Sauce geben. Mit Gemüsebrühe (Pulver), Pfeffer und gehackter Petersilie würzen, mit Sauerrahm und einem Schuss Weißwein verfeinern."
+  ],
+  "tips": [
+    "Wenn die Fleischmasse zu weich ist, kann man sie mit Brösel festigen.",
+    "Mit Vollkornbrotwürfel gemacht, schmecken die Knödel besser.",
+    "Lassen Sie die Knödel in Gemüsebrühe statt in Salzwasser ziehen, dann schmecken sie herzhafter."
+  ],
+  "sideDishes": "Erdäpfel (Kartoffeln)",
+  "nutrition": { "calories": 404, "perServing": true },
+  "source": {
+    "type": "website",
+    "name": "3sat Kulinarisches",
+    "author": null,
+    "url": "http://www.3sat.de/kulinarisches/gesundekueche/rezepte/53657/"
+  },
+  "originalFile": "20260401document193128.pdf"
+}

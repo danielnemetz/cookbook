@@ -1,0 +1,46 @@
+{
+  "id": "zuericher-geschnetzeltes",
+  "title": "Züricher Geschnetzeltes",
+  "description": "Schweizer Klassiker mit Schweineschnitzel, Champignons und Weißweinsauce",
+  "category": "Hauptgericht",
+  "tags": ["Fleisch", "Schweiz", "Schnell", "Klassiker"],
+  "servings": { "amount": 3, "unit": "Portionen" },
+  "difficulty": "normal",
+  "times": {
+    "preparation": "30 min",
+    "cooking": "30 min",
+    "resting": null,
+    "total": "60 min"
+  },
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        { "amount": 400, "unit": "g", "name": "Schweineschnitzel" },
+        { "amount": 1, "unit": "Stück", "name": "Zwiebeln" },
+        { "amount": 250, "unit": "g", "name": "Champignons" },
+        { "amount": 20, "unit": "g", "name": "Butter" },
+        { "amount": null, "unit": null, "name": "Pfeffer, Salz" },
+        { "amount": 0.125, "unit": "Liter", "name": "Weißwein" },
+        { "amount": 125, "unit": "g", "name": "Sahne" },
+        { "amount": 20, "unit": "g", "name": "Mehl" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Für Züricher Geschnetzeltes kann man Schweine- oder Kalbsschnitzel verwenden. Ich habe für dieses Gericht Schweineschnitzel in feine Streifen geschnitten.",
+    "Zwiebel fein hacken und Champignons halbieren. In einer beschichteten Pfanne Butter auslassen. Fleisch, Zwiebeln und Champignons darin ca. 5 Min. mehr dünsten, als braten.",
+    "Mit frisch gemahlenem Pfeffer und Salz würzen. Weißwein zugießen und auf mittlerer Temperatur ca. 10 Min. garen.",
+    "Sahne mit Mehl verrühren und unter das Züricher Geschnetzelte rühren. Einmal aufkochen lassen."
+  ],
+  "tips": [],
+  "sideDishes": "Röstkartoffeln oder Schweizer Rösti",
+  "nutrition": { "calories": 473, "perServing": true },
+  "source": {
+    "type": "digital",
+    "name": "Textdatei (E:\\rezepte\\züricher-geschnetzeltes)",
+    "author": null,
+    "url": null
+  },
+  "originalFile": "20260401document193212.pdf"
+}

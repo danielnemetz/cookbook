@@ -1,0 +1,51 @@
+{
+  "id": "vegetarischer-gruenkohl",
+  "title": "Vegetarischer Grünkohl (vegan)",
+  "description": "Veganer Grünkohl mit Äpfeln, Sesam und Kurkuma, serviert mit Röstkartoffeln oder Kartoffelbrei",
+  "category": "Hauptgericht",
+  "tags": ["Vegan", "Vegetarisch", "Gemüse", "Grünkohl", "Gesund"],
+  "servings": { "amount": 6, "unit": "Personen" },
+  "difficulty": "normal",
+  "times": {
+    "preparation": "20 min",
+    "cooking": "1,5 Stunden",
+    "resting": null,
+    "total": "2 Stunden"
+  },
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        { "amount": 1, "unit": "kg", "name": "Grünkohl" },
+        { "amount": 1, "unit": "Stück", "name": "große Zwiebel" },
+        { "amount": 2, "unit": "EL", "name": "Buttero (vegane Butter)" },
+        { "amount": null, "unit": null, "name": "veganer Griebenschmalz" },
+        { "amount": 0.5, "unit": "l", "name": "Gemüsebrühe" },
+        { "amount": 2, "unit": "Stück", "name": "Äpfel" },
+        { "amount": 1, "unit": "EL", "name": "körniger Senf" },
+        { "amount": 1, "unit": "TL", "name": "Honig" },
+        { "amount": null, "unit": null, "name": "Salz, Muskatnuss" },
+        { "amount": 2, "unit": "EL", "name": "Sesam" },
+        { "amount": 1, "unit": "TL", "name": "Kurkuma" },
+        { "amount": 1, "unit": "TL", "name": "Paprika rosenscharf" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Grünkohl in kochendem Wasser eine Minute blanchieren.",
+    "Zwiebel hacken und in 2 EL Butter mit Kurkuma und Paprikapulver anbraten.",
+    "Grünkohl dazugeben, Gemüsebrühe angießen und eine halbe Stunde garen.",
+    "Gewürfelte Äpfel dazugeben und noch eine halbe Stunde kochen, mit Senf, Honig, Salz und Muskatnuss würzen.",
+    "Sesam goldbraun anrösten und über die Grünkohlportion streuen."
+  ],
+  "tips": ["Sehr gut schmeckt dazu: Sahnemeerrettich"],
+  "sideDishes": "Röstkartoffeln oder Kartoffelbrei",
+  "nutrition": null,
+  "source": {
+    "type": "handwritten",
+    "name": "Rezeptkarte (Vorlage)",
+    "author": null,
+    "url": null
+  },
+  "originalFile": "20260401document193440.pdf"
+}

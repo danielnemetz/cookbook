@@ -1,0 +1,76 @@
+name: Deploy to Server
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Deploy via Rsync
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SERVER_SSH_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+
+          cat >> ~/.ssh/config <<EOF
+          Host bastion
+            HostName ${{ secrets.BASTION_HOST }}
+            User ${{ secrets.BASTION_USER }}
+            IdentityFile ~/.ssh/id_rsa
+            StrictHostKeyChecking no
+
+          Host target
+            HostName ${{ secrets.SERVER_HOST }}
+            User ${{ secrets.SERVER_USER }}
+            IdentityFile ~/.ssh/id_rsa
+            ProxyCommand ssh bastion -W %h:%p
+            StrictHostKeyChecking no
+          EOF
+
+          rsync -avz --delete \
+            --exclude 'node_modules' \
+            --exclude '.git' \
+            --exclude '.next' \
+            --exclude '.env' \
+            --exclude 'compose.local.yml' \
+            ./ target:~/docker/kochbuch/
+
+      - name: Restart Application via SSH
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.SERVER_HOST }}
+          username: ${{ secrets.SERVER_USER }}
+          key: ${{ secrets.SERVER_SSH_KEY }}
+          proxy_host: ${{ secrets.BASTION_HOST }}
+          proxy_username: ${{ secrets.BASTION_USER }}
+          proxy_key: ${{ secrets.SERVER_SSH_KEY }}
+          script: |
+            set -e
+            cd ~/docker/kochbuch
+
+            if [ -f .env ]; then
+              export $(grep -v '^#' .env | xargs)
+            fi
+
+            export TRAEFIK_NETWORK=${TRAEFIK_NETWORK:-traefik-network}
+            export APP_DOMAIN=${APP_DOMAIN:-kochbuch.nemetz.de}
+            export TRAEFIK_CERT_RESOLVER=${TRAEFIK_CERT_RESOLVER:-letsencrypt}
+
+            echo "APP_DOMAIN=$APP_DOMAIN"
+            echo "TRAEFIK_NETWORK=$TRAEFIK_NETWORK"
+
+            echo "--- Deployment ---"
+            docker compose up -d --build
+
+            echo "--- Post-Deploy ---"
+            sleep 5
+            docker compose ps
+            docker compose logs --tail 20 kochbuch
+
+            echo "Deployment finished."

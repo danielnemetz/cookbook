@@ -1,0 +1,49 @@
+{
+  "id": "philadelphia-torte-beeren",
+  "title": "Philadelphia-Torte Beeren",
+  "description": "Fruchtige no-bake Torte mit Philadelphia-Creme und Beerenmischung auf Löffelbiskuit-Boden",
+  "category": "Kuchen/Torte",
+  "tags": ["Backen", "Torte", "Beeren", "Keine Backzeit"],
+  "servings": { "amount": 4, "unit": "Portionen" },
+  "difficulty": "einfach",
+  "times": {
+    "preparation": "20 min",
+    "cooking": null,
+    "resting": "3 Stunden",
+    "total": "3 Stunden 20 min"
+  },
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        { "amount": null, "unit": null, "name": "frische Früchte zum Dekorieren" },
+        { "amount": 80, "unit": "g", "name": "Beerenmischung" },
+        { "amount": 33, "unit": "g", "name": "Zucker" },
+        { "amount": 0.66, "unit": "Packung(en)", "name": "Tortenguss, klar" },
+        { "amount": 1, "unit": "EL", "name": "Zitronensaft" },
+        { "amount": 100, "unit": "g", "name": "Joghurt" },
+        { "amount": 200, "unit": "g", "name": "Philadelphia Doppelrahm" },
+        { "amount": 40, "unit": "g", "name": "Butter" },
+        { "amount": 50, "unit": "g", "name": "Löffelbiskuits" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Löffelbiskuit in einen großen Gefrierbeutel füllen, den Beutel verschließen und den Inhalt mit einem Nudelholz oder den Händen vollständig zerbröseln.",
+    "Butter schmelzen, mit den Bröseln vermischen und in eine mit Backpapier ausgelegte Springform drücken.",
+    "Philadelphia, Joghurt und Zitronensaft mit einem Rührgerät vermischen. 1 Päckchen Tortenguss mit 75 g Zucker und 150 ml Wasser aufkochen und unter die Philadelphia-Creme rühren.",
+    "Früchte mit dem übrigen Päckchen Tortenguss, 150 ml Wasser und dem restlichen Zucker aufkochen und auf dem Tortenboden verteilen.",
+    "Die Philadelphia-Creme in einen Spritzbeutel füllen und auf die Beerenmischung spritzen, so dass die ganze Torte mit der Creme bedeckt ist.",
+    "Anschließend die Torte 3 Stunden in den Kühlschrank stellen und kurz vor dem Servieren mit einigen frischen Früchten garnieren."
+  ],
+  "tips": [],
+  "sideDishes": null,
+  "nutrition": null,
+  "source": {
+    "type": "website",
+    "name": "Kraft Online-Küche",
+    "author": null,
+    "url": "http://www.kraft.de/php/rezept_az1.php3?r_id=2569&part=4"
+  },
+  "originalFile": "20260401document193231.pdf"
+}

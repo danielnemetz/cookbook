@@ -1,0 +1,49 @@
+{
+  "id": "belgische-waffeln",
+  "title": "Belgische Waffeln",
+  "description": "Lockere belgische Waffeln mit Mineralwasser für extra Fluffigkeit",
+  "category": "Gebäck",
+  "tags": ["Backen", "Waffeln", "Süß", "Kinder"],
+  "servings": { "amount": 14, "unit": "Stück" },
+  "difficulty": "einfach",
+  "times": {
+    "preparation": "35 min",
+    "cooking": "4 min pro Waffel",
+    "resting": "20 min",
+    "total": "60 min"
+  },
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        { "amount": 200, "unit": "g", "name": "Butter (weich)" },
+        { "amount": 110, "unit": "g", "name": "Zucker" },
+        { "amount": 1, "unit": "Pkg.", "name": "Vanillezucker" },
+        { "amount": 4, "unit": "Stück", "name": "Eier" },
+        { "amount": 350, "unit": "g", "name": "Mehl" },
+        { "amount": 10, "unit": "g", "name": "Backpulver" },
+        { "amount": 1, "unit": "Prise", "name": "Salz" },
+        { "amount": 200, "unit": "ml", "name": "Milch" },
+        { "amount": 70, "unit": "ml", "name": "Mineralwasser" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Die weiche Butter mit dem Zucker und dem Vanillezucker schaumig rühren bis sich der Zucker auflöst.",
+    "Dann die Eier einzeln zugeben und unterrühren.",
+    "Das Mehl mit dem Backpulver und dem Salz vermischen und abwechselnd mit der Milch unter ständigem Rühren zu den anderen Zutaten dazugeben.",
+    "Zum Schluss noch das zimmerwarme Mineralwasser unter Rühren einrühren bis ein zähflüssiger Teig entstanden ist.",
+    "Den Waffelteig anschließend 20 min ruhen lassen.",
+    "Das Waffeleisen einfetten und vorheizen. Mit einem Schöpflöffel den Teig entnehmen und die untere Waffeleisenfläche gerade so mit Teig bedecken. Ca. 4 min backen."
+  ],
+  "tips": ["Sehr gut schmeckt dazu: Puderzucker, Eis, Obst, Sirup, Schoko- oder Vanillesauce, Nutella"],
+  "sideDishes": null,
+  "nutrition": null,
+  "source": {
+    "type": "handwritten",
+    "name": "Rezeptkarte (Vorlage)",
+    "author": null,
+    "url": null
+  },
+  "originalFile": "20260401document193400.pdf"
+}

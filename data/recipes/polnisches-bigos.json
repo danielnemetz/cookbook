@@ -1,0 +1,62 @@
+{
+  "id": "polnisches-bigos",
+  "title": "Polnisches Bigos",
+  "description": "Traditioneller polnischer Sauerkraut-Eintopf mit Fleisch, Wurst, Pflaumen und Pilzen - wird über 3 Tage zubereitet",
+  "category": "Eintopf",
+  "tags": ["Polnisch", "Fleisch", "Eintopf", "Sauerkraut", "Mehrtägig"],
+  "servings": { "amount": 12, "unit": "Personen" },
+  "difficulty": "fortgeschritten",
+  "times": {
+    "preparation": "60 min",
+    "cooking": "3 Tage",
+    "resting": null,
+    "total": "3 Tage"
+  },
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        { "amount": 1500, "unit": "g", "name": "frisches Sauerkraut" },
+        { "amount": 1, "unit": "kg", "name": "Weißkohl" },
+        { "amount": 1, "unit": "kg", "name": "Rindfleisch" },
+        { "amount": 400, "unit": "g", "name": "Wurst (Sucuk/Kabanossi)" },
+        { "amount": 1, "unit": "Stück", "name": "dicke Scheibe Speck" },
+        { "amount": 10, "unit": "Stück", "name": "trockene Pflaumen" },
+        { "amount": 25, "unit": "g", "name": "getrocknete Pilze" },
+        { "amount": 3, "unit": "Stück", "name": "große Zwiebeln" },
+        { "amount": 1, "unit": "Schuss", "name": "Wein" },
+        { "amount": 500, "unit": "ml", "name": "Brühe" },
+        { "amount": 10, "unit": "Stück", "name": "Pimentkörner" },
+        { "amount": 5, "unit": "Stück", "name": "Lorbeerblätter" },
+        { "amount": 15, "unit": "Stück", "name": "Wacholderbeeren" },
+        { "amount": 1, "unit": "Stück", "name": "großer Apfel" },
+        { "amount": 2, "unit": "EL", "name": "Tomatenmark" },
+        { "amount": 2, "unit": "TL", "name": "Kümmel" },
+        { "amount": 2, "unit": "TL", "name": "Majoran" },
+        { "amount": null, "unit": null, "name": "Pfeffer" },
+        { "amount": null, "unit": null, "name": "Salz" },
+        { "amount": null, "unit": null, "name": "Paprika rosenscharf oder Cayennepfeffer" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Tag 1: Getrocknete Pflaumen und Pilze in Wasser einweichen.",
+    "Zwiebeln würfeln, Speck und den Apfel ebenfalls. Weißkohl putzen und in 5 cm lange Stücke schneiden. Das Sauerkraut ggf. auch.",
+    "Den Speck scharf anbraten bis etwas Fett geschmolzen ist, dann die Zwiebeln mitbraten und das Tomatenmark schön ansetzen lassen.",
+    "Die Pilze abgießen, klein hacken und mitbraten. Mit Wein ablöschen.",
+    "Jetzt kann der Kohl und Kraut dazu. Die Pflaumen auch klein schneiden, das Einweichwasser kann mit in den Eintopf. Mit Brühe nochmals ablöschen.",
+    "Jetzt die Gewürze hineingeben und ca. 2 Stunden köcheln lassen.",
+    "Tag 2: Am nächsten Tag das Rindfleisch in Gulaschwürfel schneiden, in einer Pfanne portionsweise scharf anbraten und in den Eintopf geben. Diesen wieder langsam aufwärmen und 2 Stunden kochen.",
+    "Tag 3: Am 3. Tag die Wurst würfeln und wieder mit dem Bigos 2 Stunden kochen."
+  ],
+  "tips": ["Schmeckt besonders Marta (handschriftliche Notiz)", "Dazu trinken wir: Wein"],
+  "sideDishes": "Brot, Kartoffeln",
+  "nutrition": null,
+  "source": {
+    "type": "handwritten",
+    "name": "Rezeptkarte (Vorlage)",
+    "author": null,
+    "url": null
+  },
+  "originalFile": "20260401document193420.pdf"
+}

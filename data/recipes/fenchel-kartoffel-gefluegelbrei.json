@@ -1,0 +1,45 @@
+{
+  "id": "fenchel-kartoffel-gefluegelbrei",
+  "title": "Fenchel-Kartoffel-Geflügelbrei",
+  "description": "Babybrei mit Fenchel, Kartoffel und Putenbrust, ab dem 5./6. Monat",
+  "category": "Babybrei",
+  "tags": ["Baby", "Brei", "Geflügel", "Gesund"],
+  "servings": { "amount": 1, "unit": "Portion" },
+  "difficulty": "einfach",
+  "times": {
+    "preparation": "15 min",
+    "cooking": "15 min",
+    "resting": null,
+    "total": "30 min"
+  },
+  "ingredients": [
+    {
+      "group": null,
+      "items": [
+        { "amount": 90, "unit": "g", "name": "geputzter Fenchel" },
+        { "amount": 40, "unit": "g", "name": "Kartoffel" },
+        { "amount": 20, "unit": "g", "name": "Putenbrust" },
+        { "amount": 30, "unit": "ml", "name": "Apfelsaft mit Vitamin C" },
+        { "amount": 8, "unit": "g", "name": "Maiskeimöl" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Fenchel waschen und putzen. Dazu den Fenchel schälen und den festen Strunk aus der Mitte herausschneiden.",
+    "Kartoffel waschen, schälen und mit dem Fenchel klein schneiden.",
+    "Beides in wenig Wasser abgedeckt ca. 10 Minuten weich dünsten.",
+    "Putenbrust waschen, klein schneiden und nach ca. 5 Minuten zum Gemüse geben.",
+    "Fleisch, Gemüse und Kartoffeln abgießen und unter Zugabe des Saftes fein pürieren.",
+    "Das Öl unterrühren."
+  ],
+  "tips": [],
+  "sideDishes": null,
+  "nutrition": null,
+  "source": {
+    "type": "website",
+    "name": "kidnet.de",
+    "author": null,
+    "url": "http://www.kidnet.de/detail.php?id=1226"
+  },
+  "originalFile": "20260401document192445.pdf"
+}

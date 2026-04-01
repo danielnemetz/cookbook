@@ -1,0 +1,24 @@
+services:
+  kochbuch:
+    build: .
+    container_name: kochbuch-app
+    restart: unless-stopped
+    expose:
+      - "${PORT:-3000}"
+    env_file:
+      - .env
+    networks:
+      - traefik_proxy
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.kochbuch.rule=Host(`${APP_DOMAIN}`)"
+      - "traefik.http.routers.kochbuch.entrypoints=websecure"
+      - "traefik.http.routers.kochbuch.tls=true"
+      - "traefik.http.routers.kochbuch.tls.certresolver=${TRAEFIK_CERT_RESOLVER}"
+      - "traefik.http.services.kochbuch.loadbalancer.server.port=${PORT:-3000}"
+      - "traefik.docker.network=${TRAEFIK_NETWORK}"
+
+networks:
+  traefik_proxy:
+    name: ${TRAEFIK_NETWORK}
+    external: true
