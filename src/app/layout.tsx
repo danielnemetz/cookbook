@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist } from "next/font/google";
 import Link from "next/link";
+import { ThemeToggle } from "@/components/ThemeToggle";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -13,13 +14,18 @@ export const metadata: Metadata = {
   description: "Unsere Familienrezepte – digital durchsuchbar",
 };
 
+const themeScript = `(function(){try{var t=localStorage.getItem("theme");var d=t==="dark"||(t==null&&matchMedia("(prefers-color-scheme:dark)").matches);if(d)document.documentElement.classList.add("dark")}catch(e){}})()`;
+
 export default function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="de" className={`${geistSans.variable} h-full antialiased`}>
+    <html lang="de" className={`${geistSans.variable} h-full antialiased`} suppressHydrationWarning>
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: themeScript }} />
+      </head>
       <body className="min-h-full flex flex-col">
         <header className="border-b border-border bg-card-bg sticky top-0 z-50">
           <div className="max-w-6xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
@@ -29,9 +35,10 @@ export default function RootLayout({
                 Kochbuch
               </h1>
             </Link>
-            <nav className="text-sm text-muted">
-              22 Rezepte
-            </nav>
+            <div className="flex items-center gap-3">
+              <span className="text-sm text-muted">22 Rezepte</span>
+              <ThemeToggle />
+            </div>
           </div>
         </header>
         <main className="flex-1">
