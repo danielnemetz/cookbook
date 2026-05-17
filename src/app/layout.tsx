@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist } from "next/font/google";
 import Link from "next/link";
 import { ThemeToggle } from "@/components/ThemeToggle";
+import { getAllRecipes } from "@/lib/recipes";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -36,7 +37,7 @@ export default function RootLayout({
               </h1>
             </Link>
             <div className="flex items-center gap-3">
-              <span className="text-sm text-muted">22 Rezepte</span>
+              <span className="text-sm text-muted">{getAllRecipes().length} Rezepte</span>
               <ThemeToggle />
             </div>
           </div>

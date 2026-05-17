@@ -1,0 +1,71 @@
+{
+  "id": "kartoffelroulade-spinat-kaese",
+  "title": "Kartoffelroulade mit Spinat und Käse",
+  "description": "Gebackene Kartoffelplatte mit Pilz-Spinat-Frischkäse-Füllung, aufgerollt und nochmals überbacken",
+  "category": "Hauptgericht",
+  "tags": ["Vegetarisch", "Kartoffeln", "Spinat", "Backen"],
+  "servings": { "amount": 6, "unit": "Personen" },
+  "difficulty": "normal",
+  "times": {
+    "preparation": "45 min",
+    "cooking": "40 min",
+    "resting": "5 min",
+    "total": "90 min"
+  },
+  "ingredients": [
+    {
+      "group": "Für die Kartoffeln",
+      "items": [
+        { "amount": 6, "unit": "Stück", "name": "Kartoffeln, groß (ca. 600 g)" },
+        { "amount": 250, "unit": "g", "name": "Käse (z. B. Parmesan, Cheddar)" },
+        { "amount": null, "unit": null, "name": "Salz" },
+        { "amount": null, "unit": null, "name": "Pfeffer" }
+      ]
+    },
+    {
+      "group": "Für die Füllung",
+      "items": [
+        { "amount": 800, "unit": "g", "name": "Blattspinat, frisch (alternativ 450 g TK-Spinat)" },
+        { "amount": 200, "unit": "g", "name": "Champignons" },
+        { "amount": 1, "unit": "Stück", "name": "rote Zwiebel" },
+        { "amount": 1, "unit": "Zehe", "name": "Knoblauch" },
+        { "amount": 2, "unit": "TL", "name": "Butterschmalz" },
+        { "amount": null, "unit": null, "name": "Salz" },
+        { "amount": null, "unit": null, "name": "Pfeffer" },
+        { "amount": null, "unit": null, "name": "Muskat" },
+        { "amount": 200, "unit": "g", "name": "Frischkäse" },
+        { "amount": 1, "unit": "Stück", "name": "Ei, Größe M" },
+        { "amount": 1, "unit": "Bund", "name": "Petersilie" }
+      ]
+    }
+  ],
+  "instructions": [
+    "Kartoffeln nach Belieben schälen, abbrausen und in hauchdünne Scheiben hobeln und in kaltes Wasser legen. Käse raspeln. 50 g Käse für die Füllung beiseitestellen.",
+    "Ein Backblech mit Backpapier belegen. Die Hälfte vom Käse auf dem Backpapier verteilen. Kartoffelscheiben kurz in einem Sieb abtropfen lassen und zwischen zwei sauberen Geschirrtüchern trocknen. Kartoffeln dachziegelartig auf den Käse legen. Mit Salz und Pfeffer würzen.",
+    "Den übrigen Käse auf die Kartoffelscheiben streuen und im Backofen auf der mittleren Schiene, bei 180 °C Ober- und Unterhitze etwa 15–20 Minuten goldbraun backen (je nach Backofen unterschiedlich – immer wieder beobachten).",
+    "Inzwischen Spinat verlesen, abbrausen und trockenschütteln. Pilze putzen und kleinschneiden. Zwiebel und Knoblauch abziehen und fein würfeln.",
+    "In einer Pfanne 1 TL Butterschmalz erhitzen. Zwiebel und Knoblauch darin andünsten. Spinat zugeben und abgedeckt ca. 1–2 Minuten dünsten. Mit Salz, Pfeffer und Muskatnuss würzen.",
+    "Anschließend den Deckel abnehmen und 5–6 Minuten dünsten, dabei die Flüssigkeit verdampfen lassen.",
+    "Spinat in ein Sieb geben, abtropfen und etwas abkühlen lassen.",
+    "Übriges Butterschmalz im Bratfett erhitzen. Pilze darin ca. 4 Minuten dünsten, bis die entstehende Flüssigkeit fast verdampft ist. Mit Salz und Pfeffer würzen.",
+    "Pilze zum Spinat geben und mischen.",
+    "Kartoffeln aus dem Backofen nehmen und etwas abkühlen lassen.",
+    "Petersilie abbrausen, trockenschütteln und fein schneiden. Mit dem Frischkäse, Ei und dem geraspelten Käse unter die lauwarme Pilz-Spinatmasse rühren und erneut abschmecken.",
+    "Die Spinat-Frischkäse-Masse auf den Kartoffeln verteilen und mithilfe des Backpapiers aufrollen.",
+    "Die Kartoffelrolle erneut in den Backofen geben und weitere ca. 10–15 Minuten bei 180 °C backen.",
+    "Kartoffelroulade herausnehmen, kurz ruhen lassen, in Scheiben schneiden und servieren."
+  ],
+  "tips": [
+    "Tomaten-Dip: 300 g passierte Tomaten in 1 EL Öl mit 2 EL Tomatenmark andünsten und etwa 2 Minuten einköcheln lassen. Mit Salz, Pfeffer, Honig, Zitronensaft und etwas abgeriebener Zitronenschale würzen. Lauwarm oder kalt servieren.",
+    "Kartoffelreste fein schneiden oder raspeln, mit dem Spinat dünsten und ebenfalls als Füllung verwenden."
+  ],
+  "sideDishes": "Tomaten-Dip",
+  "nutrition": null,
+  "source": {
+    "type": "print",
+    "name": "Kochen",
+    "author": "Rainer Klutsch",
+    "url": null
+  },
+  "originalFile": "20260517document101406.pdf"
+}
